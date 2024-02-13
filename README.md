@@ -22,23 +22,19 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 
 
 ## ProjectStructure
-[README](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md): Contains all information about the course.
+[README](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Contains all information about the course.
 
-1. [01-Introduction](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/main/README.md) : contains the following
-   * Docker Explanation and setup
-   * Data Ingestion with Docker and PostgreSql 
-   * Terraform Explanation and setup
-   * Google Cloud Platform explanation and setup
+1. [01-Introduction](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Introduction to MLOPS
 
-2. [02-Experiment Tracking with MLFlow](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/blob/main/README.md) : Workflow Orchestration with Prefect
+2. [02-Experiment Tracking with MLFlow](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Working with MLFlow 
    
-4. [03-Orcherstration-with-Prefect](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/blob/main/README.md): Data Warehouse BigQuery
+4. [03-Orcherstration-with-Prefect](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Work Orchestratio with Prefect
 
-5. [04-Deployment](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/blob/main/README.md) : Analystics Engineering with dbt
+5. [04-Deployment](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Local and Cloud Deployment 
 
-6. [05-Monitoring](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/blob/main/README.md) : Batch Processing with PySpark and PySql
+6. [05-Monitoring](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Monitoring ML-based services with Prometheus, Evidently, and Grafana
 
-7. [06-Best-Practices](https://github.com/sam47-asfaw/DataEngineering-Zoomcamp/blob/main/README.md) : Stream Processing with Kafka
+7. [06-Best-Practices](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Best Practices
 
 
 ## 01-Introduction
