@@ -24,20 +24,33 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 ## ProjectStructure
 [README](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Contains all information about the course.
 
-1. [01-Introduction](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Introduction to MLOPS
-
+1. [01-Introduction](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) :Introduction to MLOPS
+   
 2. [02-Experiment Tracking with MLFlow](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Working with MLFlow 
    
-4. [03-Orcherstration-with-Prefect](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Work Orchestratio with Prefect
+3. [03-Orcherstration-with-Prefect](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Work Orchestratio with Prefect
 
-5. [04-Deployment](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Local and Cloud Deployment 
+4. [04-Deployment](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Local and Cloud Deployment 
 
-6. [05-Monitoring](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Monitoring ML-based services with Prometheus, Evidently, and Grafana
+5. [05-Monitoring](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Monitoring ML-based services with Prometheus, Evidently, and Grafana
 
-7. [06-Best-Practices](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Best Practices
+6. [06-Best-Practices](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Best Practices
 
 
 ## 01-Introduction
+###### The MLOps maturity level model is a framework used to assess and improve the maturity of an organization's machine learning operations (MLOps) practices. It consists of several levels, each representing a stage of maturity in how machine learning models are developed, deployed, monitored, and maintained within the organization. Here's a brief overview of the typical maturity levels in the MLOps model:
+
+###### Level 0 - Ad Hoc: At this level, there is no formal process for managing machine learning models. Data scientists work independently, and models are developed and deployed manually without standardized processes or tools.
+
+###### Level 1 - Initial: In this stage, the organization starts to recognize the need for formalizing MLOps practices. Basic version control and model documentation may be introduced, but processes are still ad hoc and inconsistent.
+
+###### Level 2 - Managed: At this level, the organization implements more structured processes for managing machine learning models. This includes version control, automated testing, and continuous integration and deployment (CI/CD) pipelines. However, these processes may still be siloed within individual teams.
+
+###### Level 3 - Defined: In this stage, the organization establishes standardized MLOps practices across teams and projects. There are clear guidelines and documentation for model development, deployment, and monitoring. Collaboration between data scientists, engineers, and operations teams is encouraged.
+
+###### Level 4 - Optimized: At the highest level of maturity, the organization continuously improves its MLOps practices based on feedback and data-driven insights. This includes optimizing model performance, automating infrastructure provisioning, and implementing advanced monitoring and governance mechanisms.
+
+###### The MLOps maturity level model helps organizations assess their current state of MLOps maturity and identify areas for improvement. By progressing through the maturity levels, organizations can enhance the efficiency, reliability, and scalability of their machine learning workflows, ultimately driving better business outcomes.
 
 ## 02-Workflow-Orchestration
 
