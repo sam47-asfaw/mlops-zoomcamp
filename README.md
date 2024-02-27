@@ -51,6 +51,7 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 ###### Level 4 - Optimized: At the highest level of maturity, the organization continuously improves its MLOps practices based on feedback and data-driven insights. This includes optimizing model performance, automating infrastructure provisioning, and implementing advanced monitoring and governance mechanisms.
 
 ###### The MLOps maturity level model helps organizations assess their current state of MLOps maturity and identify areas for improvement. By progressing through the maturity levels, organizations can enhance the efficiency, reliability, and scalability of their machine learning workflows, ultimately driving better business outcomes.
+###### For more reference check this [article](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model)
 
 ## 02-Workflow-Orchestration
 
