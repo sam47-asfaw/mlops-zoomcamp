@@ -1,4 +1,5 @@
 # Machine Learning Operations Zoomcamp by DataTalksClub
+##### (This README file is being continously updated with along with the course I'm taking)
 #### Machine Learning Operations (MLOps) is the practice of streamlining the machine learning lifecycle to enable collaboration, automation, and continuous delivery of machine learning models at scale. It encompasses processes, tools, and best practices that facilitate the development, deployment, monitoring, and management of machine learning models in production environments. Key components of MLOps include:
 * Data Management: Effective MLOps requires robust data management practices to ensure data quality, consistency, and security throughout the machine learning lifecycle. This includes data ingestion, preprocessing, labeling, versioning, and governance.
 * Model Development: MLOps emphasizes collaboration and reproducibility in model development. Teams use version control systems, such as Git, to track changes to code and models. Automated testing and validation processes help ensure model accuracy, performance, and fairness.
