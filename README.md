@@ -15,7 +15,7 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 - [ProjectStructure](#projectstructure)
 - [01-Introduction](#01-Introduction)
 - [02-Experiment-Tracking-with-MLFlow](#02-Experiment-Tracking-with-MLFlow)
-- [03-Orcherstration-with-Prefect](#03-Orcherstration-with-Prefect)
+- [03-Training-Pipelines](#03-Training-Pipelines)
 - [04-Deployment](#04-Deployment)
 - [05-Monitoring](#05-Monitoring)
 - [06-Best-Practices](#06-Best-Practices)
@@ -28,7 +28,7 @@ In summary, MLOps enables organizations to accelerate the development and deploy
    
 2. [02-Experiment Tracking with MLFlow](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Working with MLFlow 
    
-3. [03-Orcherstration-with-Prefect](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Work Orchestratio with Prefect
+3. [03-Training-Pipelines](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Training Pipelines
 
 4. [04-Deployment](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Local and Cloud Deployment 
 
@@ -53,9 +53,9 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 ###### The MLOps maturity level model helps organizations assess their current state of MLOps maturity and identify areas for improvement. By progressing through the maturity levels, organizations can enhance the efficiency, reliability, and scalability of their machine learning workflows, ultimately driving better business outcomes.
 ###### For more reference check this [article](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model)
 
-## 02-Workflow-Orchestration
+## 02-Experiment-Tracking-with-MLFlow
 
-## 03-Orcherstration-with-Prefect
+## 03-Training-Pipelines
    
 ## 04-Deployment
 
