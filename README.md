@@ -55,6 +55,11 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 ###### For more reference check this [article](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model)
 
 ## 02-Experiment-Tracking-with-MLFlow
+##### ML Experiment is the process of building a ML model.
+##### Experiment Tracking is important for:
+#####    A: Reproducibility
+#####    B: Organization
+#####    C: Optimization
 
 ## 03-Training-Pipelines
    
