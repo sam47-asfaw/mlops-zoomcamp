@@ -1,4 +1,5 @@
 # Machine Learning Operations Zoomcamp by DataTalksClub
+##### (This README file will be continously updated along with the DataTalksClub #MLOPS-Zoomcamp course progresses.)
 #### Machine Learning Operations (MLOps) is the practice of streamlining the machine learning lifecycle to enable collaboration, automation, and continuous delivery of machine learning models at scale. It encompasses processes, tools, and best practices that facilitate the development, deployment, monitoring, and management of machine learning models in production environments. Key components of MLOps include:
 * Data Management: Effective MLOps requires robust data management practices to ensure data quality, consistency, and security throughout the machine learning lifecycle. This includes data ingestion, preprocessing, labeling, versioning, and governance.
 * Model Development: MLOps emphasizes collaboration and reproducibility in model development. Teams use version control systems, such as Git, to track changes to code and models. Automated testing and validation processes help ensure model accuracy, performance, and fairness.
@@ -15,7 +16,7 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 - [ProjectStructure](#projectstructure)
 - [01-Introduction](#01-Introduction)
 - [02-Experiment-Tracking-with-MLFlow](#02-Experiment-Tracking-with-MLFlow)
-- [03-Orcherstration-with-Prefect](#03-Orcherstration-with-Prefect)
+- [03-Training-Pipelines](#03-Training-Pipelines)
 - [04-Deployment](#04-Deployment)
 - [05-Monitoring](#05-Monitoring)
 - [06-Best-Practices](#06-Best-Practices)
@@ -28,7 +29,7 @@ In summary, MLOps enables organizations to accelerate the development and deploy
    
 2. [02-Experiment Tracking with MLFlow](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Working with MLFlow 
    
-3. [03-Orcherstration-with-Prefect](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Work Orchestratio with Prefect
+3. [03-Training-Pipelines](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md): Training Pipelines
 
 4. [04-Deployment](https://github.com/sam47-asfaw/mlops-zoomcamp/blob/main/README.md) : Local and Cloud Deployment 
 
@@ -53,9 +54,30 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 ###### The MLOps maturity level model helps organizations assess their current state of MLOps maturity and identify areas for improvement. By progressing through the maturity levels, organizations can enhance the efficiency, reliability, and scalability of their machine learning workflows, ultimately driving better business outcomes.
 ###### For more reference check this [article](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model)
 
-## 02-Workflow-Orchestration
+## 02-Experiment-Tracking-with-MLFlow
+##### ML Experiment is the process of building a ML model.
+ ##### Experiment Tracking is important for:
+      A: Reproducibility
+      B: Organization
+      C: Optimization
+##### Why not use Spreadshit to track ML Experiment?
+ ###### Spreadshit is not optimal to use ML Experiments because:
+   ###### It is Error Prone
+   ###### It has no Standard Format
+   ###### Limited Visibility and Collaboration
+##### [MLFLow](https://mlflow.org/) is an open source platform for machine learning platform
+##### MLFlow is a python package that can be installed with pip and it contains four main modules:
+###### Tracking
+###### Models
+###### Model Registry
+###### Projects
+###### Installing MLflow
+##### ``` pip install mlflow ```
+##### Running MLflow
+``` mlflow ui --backend-store-uri sqlite:///mlflow.db ```
 
-## 03-Orcherstration-with-Prefect
+
+## 03-Training-Pipelines
    
 ## 04-Deployment
 
