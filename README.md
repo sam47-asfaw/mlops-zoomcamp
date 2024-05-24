@@ -57,9 +57,9 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 ## 02-Experiment-Tracking-with-MLFlow
 ##### ML Experiment is the process of building a ML model.
  ##### Experiment Tracking is important for:
-      ##### A: Reproducibility
-      ##### B: Organization
-      ##### C: Optimization
+      #####A: Reproducibility
+      #####B: Organization
+      #####C: Optimization
 ##### Why not use Spreadshit to track ML Experiment?
  ###### Spreadshit is not optimal to use ML Experiments because:
    ###### It is Error Prone
