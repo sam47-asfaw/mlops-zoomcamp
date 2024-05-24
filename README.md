@@ -56,10 +56,24 @@ In summary, MLOps enables organizations to accelerate the development and deploy
 
 ## 02-Experiment-Tracking-with-MLFlow
 ##### ML Experiment is the process of building a ML model.
-##### Experiment Tracking is important for:
-#####    A: Reproducibility
-#####    B: Organization
-#####    C: Optimization
+ ##### Experiment Tracking is important for:
+      ###### A: Reproducibility
+      ###### B: Organization
+      ###### C: Optimization
+##### Why not use Spreadshit to track ML Experiment?
+ ###### Spreadshit is not optimal to use ML Experiments because:
+   ###### It is Error Prone
+   ###### It has no Standard Format
+   ###### Limited Visibility and Collaboration
+##### [MLFLow](https://mlflow.org/) is an open source platform for machine learning platform
+##### MLFlow is a python package that can be installed with pip and it contains four main modules:
+###### Tracking
+###### Models
+###### Model Registry
+###### Projects
+###### Installing MLflow
+####### ``` pip install mlflow ```
+
 
 ## 03-Training-Pipelines
    
